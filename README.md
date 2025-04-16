@@ -19,9 +19,9 @@ Here, you’ll find a collection of my projects, contributions, and a bit about 
 
 ## How to Reach Me
 
-- Email: [EmailMe](malito:danagabay@msn.com)
-- LinkedIn: [link]
+- Email: danagabay@msn.com
+- LinkedIn: https://www.linkedin.com/in/dana-gabay/
 
-[link]:(https://www.linkedin.com/in/dana-gabay/)
+
 
 Take a look around my repositories, and if you have any questions or just want to geek out over code, feel free to reach out. Let’s connect! 🚀
