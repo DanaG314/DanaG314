@@ -5,7 +5,7 @@ Here, you’ll find a collection of my projects, contributions, and a bit about 
 
 ## About Me
 
-- 🇨🇦🥶 I live in Canada 
+- 🌎 I live in Canada 
 - 🎓 I completed a Software Engineering Bootcamp at General Assembly.
 - 🌱 I am currently diving deep into React and Python.
 
