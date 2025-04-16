@@ -1,6 +1,8 @@
  # Hi, I'm Dana Gabay 👋🏻
 
-![Pixel Me] (https://imgur.com/gallery/pixel-me-PwLuVKs)
+<div align="center" id="banner">
+    <img width="300" height="100" alt="pixel me" src="https://imgur.com/gallery/pixel-me-PwLuVKs">
+</div>
 
 Welcome to my GitHub! 🌐 I’m passionate about web development, focusing on creating seamless user experiences and visually appealing designs.
 Here, you’ll find a collection of my projects, contributions, and a bit about my journey to blend functionality with aesthetics.
