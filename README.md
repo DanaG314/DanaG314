@@ -1,7 +1,7 @@
  # Hi, I'm Dana Gabay 👋🏻
 
 <div align="center" id="banner">
-    <img width="200" height="100" alt="pixel me" src="https://i.imgur.com/8AVNjgs.png">
+    <img width="200" height="200" alt="pixel me" src="https://i.imgur.com/8AVNjgs.png">
 </div>
 
 Welcome to my GitHub! 🌐 I’m passionate about web development, focusing on creating seamless user experiences and visually appealing designs.
